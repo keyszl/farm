@@ -77,9 +77,4 @@ Set up a meeting with Dr. Goadrich to discuss persistent infraction.
 **Team Member Signatures:**
 
 Zoie Keys - 10/7/2022
-
-
-Zoie Keys:
-Jonathon Qualls:
-Simon Reid:
-Catherine Mariza:
+Jonathon Qualls - 10/7/2022
