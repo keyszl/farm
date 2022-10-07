@@ -44,29 +44,29 @@ The team will utilize a shared calendar to schedule meetings, projected task com
 
 **D. Personal Accountability**
 
-*Expected individual attendance, punctuality, and participation at all team meetings:
+*Expected individual attendance, punctuality, and participation at all team meetings:*
 
 Each team member is expected to show up on time to all team meetings. However, if a team member is not able to join the meeting/will be late to a meeting due to some other circumstance, said team member should notify the Teams group chat of their absence/tardiness. Each member is also expected to share their progress on individual tasks at the beginning of each meeting.
 
-*Expected level of responsibility for fulfilling team assignments, timelines, and deadlines:
+*Expected level of responsibility for fulfilling team assignments, timelines, and deadlines:*
 
 Each team member is expected to turn in all team assignments and tasks for the project by their deadlines. However, if a team member is not able to turn in an assignment on time, that should be communicated to the team as well as Dr. Goadrich prior to the deadline.
 
-*Expected level of communication with other team members:
+*Expected level of communication with other team members:*
 
 Besides the team meetings twice a week, generally if a team member encounters a problem that requires extended help / advice from the team, that should be communicated to the team in a timely manner to avoid extra obstacles. Overall, the team should communicate with each other as necessary outside of the regular meeting times. Team members are also expected to communicate any issues that will not be resolved by deadlines or affect the team in some manner such as team meeting absence, task completion, etc.
 
-*Expected level of commitment to team decisions and tasks:
+*Expected level of commitment to team decisions and tasks:*
 
 Everyone should be aware of team decisions and tasks as they were decided by a unanimous consensus. This will allow us to avoid obstacles and conflict later on.
 
 **E. Consequences of Breach of Contract**
 
-*Policies for handling infractions of any of the obligations of this team contract:
+*Policies for handling infractions of any of the obligations of this team contract:*
 
 Case by case, any one infraction will be discussed among the team. The team member who has breached the contract in any way will discuss the event with the rest of the team to ensure that the infraction will not happen again.
 
-*Policies for handling persistent infractions:
+*Policies for handling persistent infractions:*
 
 Set up a meeting with Dr. Goadrich to discuss persistent infraction.
 
