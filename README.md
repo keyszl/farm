@@ -1,7 +1,10 @@
 # Friend of the Farm
 
 Team Members:
-Zoie Keys - keyszl@hendrix.edu Simon Reid - reidst@hendrix.edu Jonathon Qualls - quallsja@hendrix.edu Catherine Mariza - marizacc@hendrix.edu
+Zoie Keys - keyszl@hendrix.edu 
+Simon Reid - reidst@hendrix.edu 
+Jonathon Qualls - quallsja@hendrix.edu 
+Catherine Mariza - marizacc@hendrix.edu
 
 **A. Team Structure**
 
@@ -10,21 +13,22 @@ Leadership structure shared leadership (everyone has their own tasks but we all 
 2. Who is the team Recorder/Documentation Manager/Maintainer of all required turn-ins? Zoie Keys
 3. Day, time & place for regular team meetings: Twice a week for an hour each
     Mondays at 1:00 PM (MCR 3rd Floor Library)
-    Thursdays at ??? (Snoddy Center)
+    Thursdays at 8:00 PM (Snoddy Center)
 4. Usual method of communication: Through teams in team group chat
 5. Teams Roles
-- Task Manager:
-- Client Interfacer:
-- GUI Designer:
-- Unit Tester:
-- Integration Tester:
-- Beta Test Organizer:
+- Task Manager: Jonathon Qualls
+- Client Interfacer: Catherine Mariza
+- GUI Designer: Catherine Mariza, Jonathon Qualls
+- Backend Development: Zoie Keys, Jonathon Qualls
+- Unit Tester: Simon Reid
+- Integration Tester: Simon Reid, Zoie Keys
+- Beta Test Organizer: Simon Reid
 
 **B. Team Procedures**
 
 Method for setting and following meeting agendas (Who will set each agenda? When? How will team members be notified/reminded? Who will be responsible for the team following the agenda during a team meeting?):
-Who will set each agenda? How will team members be notified? - ??? (sends out agenda the night before a meeting through Teams)
-Who will be responsible for the team following the agenda? - ???
+Who will set each agenda? How will team members be notified? - Catherine Mariza (sends out agenda the night before a meeting through Teams)
+Who will be responsible for the team following the agenda? - Jonathon Qualls
 
 Procedures in the absence of a team member: (will the team meet with one member absent, or must all members be present?): The majority of team members should be present during team meetings (at least three). However, if decisions are being made during a meeting, in which consensus is needed, the absent team member will be notified in teams. If two out of four people are not able to meet, the team will reschedule the meeting for later that week.
 
