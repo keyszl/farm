@@ -78,3 +78,4 @@ Set up a meeting with Dr. Goadrich to discuss persistent infraction.
 
 Zoie Keys - 10/7/2022
 Jonathon Qualls - 10/7/2022
+Simon Reid - 10/7/2022
